@@ -1,6 +1,6 @@
 ## Hi there, Iam Abdul here,
 Aspiring Software Engineer
-<img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif"> 
+<img align="right" width="370" height="290" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmN0OWt2aTB1aGl6M2xzdndkenNzanRmdHppcmxrMXhjcnEzNThpYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HscDLzkO8EOTmgkhQP/giphy.gif"> 
 - Final Year UnderGrad from SRM IST Chennai
 - I love problem solving and creating real world impactful Projects
   <br />
