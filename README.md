@@ -1,7 +1,7 @@
 ## Hi there, Iam Abdul here,
 Aspiring Software Engineer
 <img align="right" width="370" height="290" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmN0OWt2aTB1aGl6M2xzdndkenNzanRmdHppcmxrMXhjcnEzNThpYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HscDLzkO8EOTmgkhQP/giphy.gif"> 
-- Final Year UnderGrad from SRM IST Chennai with 9.45 
+- Final Year UnderGrad from SRM IST Chennai with 9.45 CGPA
 - I love problem solving and creating real world impactful Projects
   <br />
 - Social Presence
