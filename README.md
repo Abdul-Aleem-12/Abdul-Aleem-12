@@ -15,7 +15,7 @@ Aspiring Software Engineer
 ### 🧰 Tech Stack
 
 #### 🗣️ Languages  
-C, **C++ (Primary)**, Python, Java, JavaScript, TypeScript
+C, C++, Python, Java, JavaScript, TypeScript
 #### 🌐 Web Development  
 React.js, Node.js, Express.js, REST APIs, MongoDB, PostgreSQL, Tailwind CSS
 #### 🧪 Testing & QA  
